@@ -8,7 +8,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="text-center mb-4">
-              <div className="text-2xl font-bold text-orange-400 tracking-wider">AGORA</div>
+              <div className="text-2xl font-bold text-orange-400 tracking-wider">Hayot-AGORA</div>
               <div className="text-xs text-gray-400 tracking-widest uppercase">Entertainment</div>
             </div>
             <p className="text-gray-400 mb-4 text-center md:text-left">
